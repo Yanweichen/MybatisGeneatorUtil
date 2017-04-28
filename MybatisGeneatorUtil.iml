@@ -19,8 +19,8 @@
     <orderEntry type="library" name="Maven: com.oracle:ojdbc6:11.2.0.3" level="project" />
     <orderEntry type="library" name="Maven: com.ywc:quaqua:9.1" level="project" />
     <orderEntry type="library" name="Maven: commons-io:commons-io:2.5" level="project" />
-    <orderEntry type="module" module-name="mybatis-generator-core" />
-    <orderEntry type="module" module-name="mapper" />
+    <orderEntry type="library" name="Maven: org.mybatis.generator:mybatis-generator-core:1.3.6-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: tk.mybatis:mapper:3.4.0" level="project" />
     <orderEntry type="library" name="Maven: javax.persistence:persistence-api:1.0" level="project" />
   </component>
 </module>
