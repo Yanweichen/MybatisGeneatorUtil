@@ -20,3 +20,5 @@ PCCIMS.ipr
 PCCIMS.iws
 web.iml
 /target/
+/mybatis-generator-core/target/
+/Mapper-master/target/
